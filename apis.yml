@@ -1,0 +1,32 @@
+aid: uk-bank-holidays
+name: UK Bank Holidays
+description: "Bank holidays in England and Wales, Scotland and Northern Ireland"
+url: https://www.gov.uk/bank-holidays.json
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Calendar"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Calendar
+  - Public APIs
+apis:
+  - name: UK Bank Holidays
+    description: "Bank holidays in England and Wales, Scotland and Northern Ireland"
+    humanURL: https://www.gov.uk/bank-holidays.json
+    baseURL: https://www.gov.uk/bank-holidays.json
+    tags:
+      - Calendar
+    properties:
+      - type: Documentation
+        url: https://www.gov.uk/bank-holidays.json
+common:
+  - type: Website
+    url: https://www.gov.uk/bank-holidays.json
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
