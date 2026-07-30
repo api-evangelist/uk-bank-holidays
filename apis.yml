@@ -1,4 +1,16 @@
 aid: uk-bank-holidays
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/uk-bank-holidays.png
 name: UK Bank Holidays
 description: "Bank holidays in England and Wales, Scotland and Northern Ireland"
 url: https://www.gov.uk/bank-holidays.json
