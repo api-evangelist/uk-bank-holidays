@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/uk-bank-ho
 name: UK Bank Holidays
 description: "Bank holidays in England and Wales, Scotland and Northern Ireland"
 url: https://www.gov.uk/bank-holidays.json
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
