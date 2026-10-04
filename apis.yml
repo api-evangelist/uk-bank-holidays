@@ -39,7 +39,6 @@ apis:
   - name: UK Bank Holidays
     description: "Bank holidays in England and Wales, Scotland and Northern Ireland"
     humanURL: https://www.gov.uk/bank-holidays.json
-    baseURL: https://www.gov.uk/bank-holidays.json
     tags:
       - Calendar
     properties:
